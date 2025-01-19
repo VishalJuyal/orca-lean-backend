@@ -17,7 +17,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/orca-lean-backend.git
+git clone https://github.com/VishalJuyal/orca-lean-backend.git
 Navigate to the project directory:
 
 Bash
